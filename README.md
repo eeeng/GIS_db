@@ -1,1 +1,2 @@
-veritabanı, cloud
+#cloud
+#db spatial platform
